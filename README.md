@@ -1,4 +1,4 @@
-<div align="fill">
+<div align="center">
     <img alt="GIF" src="https://raw.githubusercontent.com/NithishK5/NithishK5/master/giphy.gif" />
 </div>
 
