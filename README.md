@@ -12,6 +12,9 @@ From an early age, I felt that I had a deep connection with computers,I realised
 <a href="https://fb.com/Nithish Kumar Megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
 </p>
 
+<div align="right">
+    <img alt="GIF" src="https://raw.githubusercontent.com/NithishK5/NithishK5/master/giphy.gif" />
+</div>
 
 
 
