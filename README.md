@@ -8,8 +8,8 @@ From an early age, I felt that I had a deep connection with computers,I realised
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nithish kumar megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
-<a href="https://fb.com/nithish kumar megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Nithish Kumar Megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
+<a href="https://fb.com/Nithish Kumar Megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
 </p>
 
 
