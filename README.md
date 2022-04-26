@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="GIF" src="https://raw.githubusercontent.com/NithishK5/NithishK5/master/giphy.gif" />
+    <img alt="GIF" src="https://raw.githubusercontent.com/NithishK5/NithishK5/master/nithish-kumar-megarajan.gif" />
 </div>
 
 <div align="justify">
