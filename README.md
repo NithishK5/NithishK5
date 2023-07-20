@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">:wave:Hi! I’m a Software Graduate from the University of Strathclyde:sparkles:</h3>
-<h4>- 🌍 View my personal website: [nithishk.com](https://nithishk.com)</h4>
+<h4 align="center">- 🌍 View my personal website:(https://nithishk.com)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
