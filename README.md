@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/Nithish Kumar Megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
 <a href="https://fb.com/Nithish Kumar Megarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nithish kumar megarajan" height="30" width="40" /></a>
-<a href="mailto:nithishmegaraj05@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Nithish Kumar" height="30" width="40" /></a>
+<a href="mailto:nithishmegaraj05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Nithish Kumar" height="30" width="40" /></a>
 </p>
 
 
