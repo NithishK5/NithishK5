@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="GIF" src="https://raw.githubusercontent.com/NithishK5/NithishK5/master/nithish.gif"/>
+    <img alt="GIF" src="https://raw.githubusercontent.com/NithishK5/NithishK5/master/giphy.gif"/>
 </div>
 
 <h3 align="center">:wave:Hi! I’m a Software Graduate from the University of Strathclyde:sparkles:</h3>
